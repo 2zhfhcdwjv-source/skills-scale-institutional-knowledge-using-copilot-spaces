@@ -18,3 +18,4 @@ Finally, OctoAcme treats release, communication, and improvement as core operati
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [Additional Roles & Personas](./octoacme-additional-roles-and-personas.md)
